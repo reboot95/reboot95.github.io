@@ -3,7 +3,7 @@
 ![Crystal Lock](/images/crylock.png)
 Format: ![Alt Text](url)
 
-[My Blog] (https://www.reboot95.us/wordpress) 
+[My Blog](https://www.reboot95.us/wordpress) 
 for your viewing pleasure, where i've become stuck in time
 
 You can use the [editor on GitHub](https://github.com/reboot95/reboot95.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
