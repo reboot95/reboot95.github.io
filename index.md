@@ -1,13 +1,42 @@
 ## Welcome to GitHub Pages
 
 ![Crystal Lock](/images/crylock.png)
-Format: ![Alt Text](url)
+
 
 [My Blog](https://www.reboot95.us/wordpress) 
  for your viewing pleasure, where i've become stuck in time
 
+###Servlet written in Jython.
 
+```python
+#test Calendar this is written in jython.!
 
+from javax.servlet.http import HttpServlet
+import calendar
+import sys
+import time
+
+class Cal_old(HttpServlet):
+  def processRequest(self,req,res):
+    out = res.writer
+    
+    res.contentType = "text/html"
+    out.println("<pre>")
+    out.println(calendar.calendar(time.localtime()[0]))
+    
+  def doGet(self, req, res):
+      self.processRequest(req,res)
+  def doPost(self,req,res):
+      self.processRequest(req,res)
+
+if __name__ =="__main__":
+    pass
+    #srv = Cal_old()
+    #dReq = DummyHttpRequest()
+    #dRes = DummyHttpResponse()
+    #srv.processReques(dReq,dRes)
+
+```
 
 ### Markdown
 
