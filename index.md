@@ -5,6 +5,8 @@
 
 [My Blog](https://www.reboot95.us/wordpress) 
  for your viewing pleasure, where i've become stuck in time
+ 
+ [Old Blog](https://reboot95.blogspot.com)
 
 ### Servlet written in Jython.
 
