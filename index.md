@@ -6,7 +6,7 @@
 [My Blog](https://www.reboot95.us/wordpress) 
  for your viewing pleasure, where i've become stuck in time
 
-###Servlet written in Jython.
+### Servlet written in Jython.
 
 ```python
 #test Calendar this is written in jython.!
@@ -66,7 +66,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 [Repository settings](https://github.com/reboot95/reboot95.github.io/settings). 
 
-[edit on GitHub](https://github.com/reboot95/reboot95.github.io/edit/master/index.md) 
+[Edit on GitHub](https://github.com/reboot95/reboot95.github.io/edit/master/index.md) 
 
 ### Support or Contact
 
